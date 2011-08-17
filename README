@@ -1,4 +1,4 @@
-Add class "formatize" to text fields to get live integer formatizing. For instance 1000 will be transted to 1,000 live while the user is typing.
+Add class "formatize" to text fields to get live integer formatizing. For instance 1000 will be changed to 1,000 live while the user is typing.
 
 Requires jQuery 1.6 and I18n.js.
 
