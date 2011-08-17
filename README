@@ -1,5 +1,8 @@
 Add class "formatize" to text fields to get live integer formatizing. For instance 1000 will be changed to 1,000 live while the user is typing.
 
-Requires jQuery 1.6 and I18n.js.
+Requirements:
+- jQuery 1.6
+- I18n.js
+- rangyinputs (http://code.google.com/p/rangyinputs/)
 
 TODO: Make I18n.js requirement optional.
